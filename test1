@@ -1,4 +1,5 @@
 main
+<<<<<<< HEAD
 
 ls
 
@@ -10,3 +11,6 @@ ls
 test1
 test12
 main111
+=======
+main111
+>>>>>>> e1e9a4768cccdb87c16a7c880472c72142083336
